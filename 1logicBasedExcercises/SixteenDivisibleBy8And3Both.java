@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class divisibleBy8And3Both {
+public class SixteenDivisibleBy8And3Both {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

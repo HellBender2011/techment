@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class compareTwoArrays {
+public class FifteenCompareTwoArrays {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
