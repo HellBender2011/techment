@@ -1,5 +1,5 @@
 
-public class 1TheGlassHouse {
+public class OneTheGlassHouse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
